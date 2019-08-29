@@ -1,4 +1,4 @@
-# Kelly's First CS193 Homework
+## Kelly's First CS193 Homework
 
 - I get to learn how to code interesting things
 - Excited to work with others
